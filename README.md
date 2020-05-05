@@ -1,5 +1,7 @@
 # Fingerprint Recognition
-Fingerprint recognition using CNN  
+Fingerprint recognition using CNN
+
+ref.https://github.com/kairess/fingerprint_recognition
 
 ## Result
 
